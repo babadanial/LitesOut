@@ -1,7 +1,7 @@
 # LightsOut
 
 Welcome!
-This repository contains the contents of the LightsOut project written by Daniel Akbarzadeh. It was created in response to an assignment for CS246 at the University of Waterloo; however, all code contained within is written by me and me only.
+This repository contains the contents of the LightsOut project written by Daniel Akbarzadeh. It was created in response to an assignment for CS246 at the University of Waterloo; Except for the public methods named in each class's interface, which were specified by instructors to not be changed, the rest of all interfaces, all implementation files, as well as the main client that handles inputs (game commands) were written by me and me only.
 
 This project was written in ___C++___ using the ___Observer design pattern___.
 
